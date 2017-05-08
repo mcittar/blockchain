@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ethereumjs-testrpc": "^3.0.5",
+    "solc": "^0.4.11",
     "truffle": "^3.2.1",
     "web3": "^0.18.4",
     "webpack": "^2.5.1"
